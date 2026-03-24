@@ -1,6 +1,3 @@
-# ⚖️ 2. Equity Gap Explorer
-
-```markdown
 # ⚖️ Equity Gap Explorer
 
 A tool designed to help teams explore differences in participation and outcomes across groups in a structured, analytical way.
@@ -66,8 +63,6 @@ _Add screenshots here_
 ---
 
 ## ⚙️ How to Run Locally
-
-```bash
 git clone https://github.com/YOUR-USERNAME/equity-gap-explorer.git
 cd equity-gap-explorer
 pip install -r requirements.txt
