@@ -63,6 +63,8 @@ _Add screenshots here_
 ---
 
 ## ⚙️ How to Run Locally
+
+```bash
 git clone https://github.com/YOUR-USERNAME/equity-gap-explorer.git
 cd equity-gap-explorer
 pip install -r requirements.txt
