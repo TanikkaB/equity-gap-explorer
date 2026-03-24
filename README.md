@@ -1,6 +1,3 @@
-
----
-
 # ⚖️ 2. Equity Gap Explorer
 
 ```markdown
